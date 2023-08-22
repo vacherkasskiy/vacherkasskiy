@@ -3,7 +3,7 @@
 
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vacherkasskiy&label=Profile%20views&color=0e75b6&style=flat" alt="shove" /> </p>
-  <a href="https://wakatime.com/@457c367c-3133-47a7-a14f-7b3237fa8aac"><img src="https://wakatime.com/badge/user/457c367c-3133-47a7-a14f-7b3237fa8aac.svg" alt="Total time coded since Aug 22 2023" /></a>
+  <p align="left"> <img src="https://wakatime.com/badge/user/457c367c-3133-47a7-a14f-7b3237fa8aac.svg" alt="Total time coded since Aug 22 2023" /> </p>
 </div>
 
 - 📫 How to reach me **vitalik.cherkasskiy@gmail.com**
